@@ -6,6 +6,7 @@
  	height: 108px;
  }
 h1 {
+	color:#FF0000;
 	font-size: 58px;
 	font-family: "AdineKirnberg";
 	text-align: left;
@@ -22,7 +23,7 @@ h4 {
 	text-align: left;
 }
 h5 {
-	color:#FFD700;
+	color:#FF0000;
 	font-size: 30px;
 	font-family: "Cellos Script";
 	font-style: unset;
@@ -39,7 +40,7 @@ h5 {
 	width: 180px;	
 	}	
 	.navbar-default {
-		background-color: black;
+		background-color: transparent;
 		border-color: transparent;
 	}
 	.navbar-default .navbar-nav>li>a {
@@ -75,7 +76,7 @@ h5 {
 			border-color: white;
 		}
 		.navbar-default .navbar-nav>li>a {
-			color: #D2B48C;
+			color: #FFD700;
 			font-size: 20px;
 			font-weight: 700;
 			text-align: center;
