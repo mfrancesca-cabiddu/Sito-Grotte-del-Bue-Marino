@@ -56,7 +56,7 @@ h5 {
 		padding-top: 4px;
 	}
 	.navbar-default .navbar-toggle {
-		border-color: white;
+		border-color: black;
 	}
 	.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
 		background-color: white;
