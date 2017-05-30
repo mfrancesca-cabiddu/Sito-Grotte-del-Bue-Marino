@@ -17,7 +17,7 @@ h2 {
 	font-family: "AdineKirnberg";
 }
 h4 {
-	color:#4682B4;
+	color:#000000;
 	font-size: 24px;
 	font-family: "Cellos Script";
 	font-style: unset;
@@ -45,9 +45,9 @@ h5 {
 		border-color: transparent;
 	}
 	.navbar-default .navbar-nav>li>a {
-		color: 	#FFFFFF;
+		color: #000000;
 		font-family: "Cellos Script";
-		font-size: 15px;
+		font-size: 20px;
 		font-weight: 700;
 	}
 	.navbar-default .navbar-nav>li>a:hover,
