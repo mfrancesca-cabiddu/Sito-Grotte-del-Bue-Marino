@@ -8,7 +8,7 @@
 h1 {
 	color:#FF0000;
 	font-size: 58px;
-	font-family: "Gessele";
+	font-family: "Beautiful ES";
 	font-style: unset;
 	text-align: left;
 }
@@ -17,7 +17,7 @@ h2 {
 	font-family: "AdineKirnberg";
 }
 h4 {
-	color:#FF0000;
+	color:#FFFFFF;
 	font-size: 24px;
 	font-family: "Cellos Script";
 	font-style: unset;
@@ -77,7 +77,7 @@ h5 {
 			border-color: white;
 		}
 		.navbar-default .navbar-nav>li>a {
-			color: #006400;
+			color: #FFFFFF;
 			font-size: 20px;
 			font-weight: 700;
 			text-align: center;
