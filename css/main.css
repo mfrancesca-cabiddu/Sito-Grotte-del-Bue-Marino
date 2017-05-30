@@ -6,9 +6,9 @@
  	height: 108px;
  }
 h1 {
-	color:#FF0000;
+	color:#FFFFFF;
 	font-size: 58px;
-	font-family: "Beautiful ES";
+	font-family: "Cellos Script";
 	font-style: unset;
 	text-align: left;
 }
@@ -17,7 +17,7 @@ h2 {
 	font-family: "AdineKirnberg";
 }
 h4 {
-	color:#000000;
+	color:#F5F5F5;
 	font-size: 24px;
 	font-family: "Cellos Script";
 	font-style: unset;
@@ -65,7 +65,7 @@ h5 {
 	}
 
 	.welcome {
-		background: rgba(0, 0, 0, 0.4);
+		background: rgba(0, 0, 0, 0.5);
 		color: rgba(256, 256, 256, 0.85);
 		padding: 150px;
 		text-align: center;
@@ -73,7 +73,7 @@ h5 {
 
 	@media (max-width: 750px) {
 		.navbar-default .navbar-collapse {
-			background-color: rgba(0, 0, 0, 0.2);
+			background-color: rgba(0, 0, 0, 0.5);
 			border-color: white;
 		}
 		.navbar-default .navbar-nav>li>a {
